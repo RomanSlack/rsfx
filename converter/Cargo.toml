@@ -1,0 +1,15 @@
+[package]
+name = "rsfx-convert"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "rsfx-convert"
+path = "src/main.rs"
+
+[dependencies]
+rsfx-core = { path = "../rsfx-core" }
+ffmpeg-sidecar = "2"
+fast_image_resize = "5"
+clap = { version = "4", features = ["derive"] }
+anyhow = "1"

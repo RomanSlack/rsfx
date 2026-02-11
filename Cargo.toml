@@ -1,0 +1,3 @@
+[workspace]
+members = ["rsfx-core", "converter", "player"]
+resolver = "2"
