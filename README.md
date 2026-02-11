@@ -14,7 +14,7 @@ Terminal video player and rendering engine. Converts MP4 videos into a pre-rende
 Uses Unicode half-block characters (`▄`) with 24-bit ANSI color to render 2 vertical pixels per character cell — no Kitty/Sixel support required. Works on any modern terminal.
 
 <p align="center">
-  <img src="readme_images/screenshot_from_video.png" alt="rsfx playback" width="700">
+  <a href="https://www.youtube.com/watch?v=IF15qCPfKEk"><img src="readme_images/screenshot_from_video.png" alt="rsfx playback" width="700"></a>
 </p>
 
 ## How it works
