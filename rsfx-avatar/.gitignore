@@ -1,0 +1,24 @@
+# Rust build
+/target/
+renderer/target/
+Cargo.lock
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+*.env
+
+# MuseTalk (cloned separately, 8GB+ of models)
+MuseTalk/
+
+# Runtime
+*.sock
+
+# Large/personal test files
+*.mp3
+*.wav
+*.mp4
+*.jpg
+*.png

@@ -1,0 +1,14 @@
+[package]
+name = "rsfx-avatar-renderer"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "rsfx-avatar"
+path = "src/main.rs"
+
+[dependencies]
+crossterm = "0.28"
+rodio = "0.20"
+clap = { version = "4", features = ["derive"] }
+anyhow = "1"

@@ -1,0 +1,10 @@
+torch
+diffusers
+transformers
+opencv-python
+numpy
+librosa
+face-alignment
+mmcv
+mmdet
+mmpose
